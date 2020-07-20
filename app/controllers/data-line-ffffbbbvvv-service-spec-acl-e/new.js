@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvservice_spec_aclEController from '../data-line-ffffbbbvvv-service-spec-acl-e';
+
+var DataLineffffbbbvvvservice_spec_aclENewController = DataLineffffbbbvvvservice_spec_aclEController;
+export default DataLineffffbbbvvvservice_spec_aclENewController;

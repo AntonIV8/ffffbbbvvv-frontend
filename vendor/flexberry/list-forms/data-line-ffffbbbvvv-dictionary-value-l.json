@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-dictionary-value-e",
+  "editForm": "data-line-ffffbbbvvv-dictionary-value-e",
+  "external": false,
+  "caption": "Dictionary_value",
+  "name": "DataLineffffbbbvvvdictionary_valueL",
+  "className": "dictionary_valueL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-dictionary-value",
+      "modelProjection": "dictionary_valueL"
+    }
+  ]
+}

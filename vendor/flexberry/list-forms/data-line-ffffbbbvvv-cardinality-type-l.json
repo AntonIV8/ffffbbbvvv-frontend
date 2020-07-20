@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-cardinality-type-e",
+  "editForm": "data-line-ffffbbbvvv-cardinality-type-e",
+  "external": false,
+  "caption": "Cardinality_type",
+  "name": "DataLineffffbbbvvvcardinality_typeL",
+  "className": "cardinality_typeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-cardinality-type",
+      "modelProjection": "cardinality_typeL"
+    }
+  ]
+}

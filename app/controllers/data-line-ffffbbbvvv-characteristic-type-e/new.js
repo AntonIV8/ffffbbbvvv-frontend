@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvcharacteristic_typeEController from '../data-line-ffffbbbvvv-characteristic-type-e';
+
+var DataLineffffbbbvvvcharacteristic_typeENewController = DataLineffffbbbvvvcharacteristic_typeEController;
+export default DataLineffffbbbvvvcharacteristic_typeENewController;

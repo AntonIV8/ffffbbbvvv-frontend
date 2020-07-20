@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-service-spec-acl-e",
+  "editForm": "data-line-ffffbbbvvv-service-spec-acl-e",
+  "external": false,
+  "caption": "Service_spec_acl",
+  "name": "DataLineffffbbbvvvservice_spec_aclL",
+  "className": "service_spec_aclL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-service-spec-acl",
+      "modelProjection": "service_spec_aclL"
+    }
+  ]
+}

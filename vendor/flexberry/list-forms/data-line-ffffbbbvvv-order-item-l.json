@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-order-item-e",
+  "editForm": "data-line-ffffbbbvvv-order-item-e",
+  "external": false,
+  "caption": "Order_item",
+  "name": "DataLineffffbbbvvvorder_itemL",
+  "className": "order_itemL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-order-item",
+      "modelProjection": "order_itemL"
+    }
+  ]
+}

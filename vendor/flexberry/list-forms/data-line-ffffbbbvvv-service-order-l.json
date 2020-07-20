@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-service-order-e",
+  "editForm": "data-line-ffffbbbvvv-service-order-e",
+  "external": false,
+  "caption": "Service_order",
+  "name": "DataLineffffbbbvvvservice_orderL",
+  "className": "service_orderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-service-order",
+      "modelProjection": "service_orderL"
+    }
+  ]
+}

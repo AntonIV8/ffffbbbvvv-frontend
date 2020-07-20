@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvservice_characteristic_logEController from '../data-line-ffffbbbvvv-service-characteristic-log-e';
+
+var DataLineffffbbbvvvservice_characteristic_logENewController = DataLineffffbbbvvvservice_characteristic_logEController;
+export default DataLineffffbbbvvvservice_characteristic_logENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-user-resource-spec-e",
+  "editForm": "data-line-ffffbbbvvv-user-resource-spec-e",
+  "external": false,
+  "caption": "User_resource_spec",
+  "name": "DataLineffffbbbvvvuser_resource_specL",
+  "className": "user_resource_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-user-resource-spec",
+      "modelProjection": "user_resource_specL"
+    }
+  ]
+}

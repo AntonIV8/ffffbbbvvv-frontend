@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvresource_sharedEController from '../data-line-ffffbbbvvv-resource-shared-e';
+
+var DataLineffffbbbvvvresource_sharedENewController = DataLineffffbbbvvvresource_sharedEController;
+export default DataLineffffbbbvvvresource_sharedENewController;

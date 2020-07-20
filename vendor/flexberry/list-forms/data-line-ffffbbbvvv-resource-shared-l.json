@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-resource-shared-e",
+  "editForm": "data-line-ffffbbbvvv-resource-shared-e",
+  "external": false,
+  "caption": "Resource_shared",
+  "name": "DataLineffffbbbvvvresource_sharedL",
+  "className": "resource_sharedL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-resource-shared",
+      "modelProjection": "resource_sharedL"
+    }
+  ]
+}

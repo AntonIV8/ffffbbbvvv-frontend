@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-service-e",
+  "editForm": "data-line-ffffbbbvvv-service-e",
+  "external": false,
+  "caption": "Service",
+  "name": "DataLineffffbbbvvvserviceL",
+  "className": "serviceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-service",
+      "modelProjection": "serviceL"
+    }
+  ]
+}

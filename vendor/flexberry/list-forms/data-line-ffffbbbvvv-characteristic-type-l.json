@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-characteristic-type-e",
+  "editForm": "data-line-ffffbbbvvv-characteristic-type-e",
+  "external": false,
+  "caption": "Characteristic_type",
+  "name": "DataLineffffbbbvvvcharacteristic_typeL",
+  "className": "characteristic_typeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-characteristic-type",
+      "modelProjection": "characteristic_typeL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-contragent-e",
+  "editForm": "data-line-ffffbbbvvv-contragent-e",
+  "external": false,
+  "caption": "Contragent",
+  "name": "DataLineffffbbbvvvcontragentL",
+  "className": "contragentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-contragent",
+      "modelProjection": "contragentL"
+    }
+  ]
+}

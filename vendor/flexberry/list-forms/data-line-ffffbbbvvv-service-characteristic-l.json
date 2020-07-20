@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-service-characteristic-e",
+  "editForm": "data-line-ffffbbbvvv-service-characteristic-e",
+  "external": false,
+  "caption": "Service_characteristic",
+  "name": "DataLineffffbbbvvvservice_characteristicL",
+  "className": "service_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-service-characteristic",
+      "modelProjection": "service_characteristicL"
+    }
+  ]
+}

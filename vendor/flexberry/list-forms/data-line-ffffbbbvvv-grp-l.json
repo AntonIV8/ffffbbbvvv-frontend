@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-grp-e",
+  "editForm": "data-line-ffffbbbvvv-grp-e",
+  "external": false,
+  "caption": "Grp",
+  "name": "DataLineffffbbbvvvgrpL",
+  "className": "grpL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-grp",
+      "modelProjection": "grpL"
+    }
+  ]
+}

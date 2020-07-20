@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvcardinality_typeEController from '../data-line-ffffbbbvvv-cardinality-type-e';
+
+var DataLineffffbbbvvvcardinality_typeENewController = DataLineffffbbbvvvcardinality_typeEController;
+export default DataLineffffbbbvvvcardinality_typeENewController;

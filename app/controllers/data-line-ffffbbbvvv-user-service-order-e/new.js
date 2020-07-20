@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvuser_service_orderEController from '../data-line-ffffbbbvvv-user-service-order-e';
+
+var DataLineffffbbbvvvuser_service_orderENewController = DataLineffffbbbvvvuser_service_orderEController;
+export default DataLineffffbbbvvvuser_service_orderENewController;

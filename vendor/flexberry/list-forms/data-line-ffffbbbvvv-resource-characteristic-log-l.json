@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-resource-characteristic-log-e",
+  "editForm": "data-line-ffffbbbvvv-resource-characteristic-log-e",
+  "external": false,
+  "caption": "Resource_characteristic_log",
+  "name": "DataLineffffbbbvvvresource_characteristic_logL",
+  "className": "resource_characteristic_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-resource-characteristic-log",
+      "modelProjection": "resource_characteristic_logL"
+    }
+  ]
+}

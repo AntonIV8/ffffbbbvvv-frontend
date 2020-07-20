@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvresource_commonEController from '../data-line-ffffbbbvvv-resource-common-e';
+
+var DataLineffffbbbvvvresource_commonENewController = DataLineffffbbbvvvresource_commonEController;
+export default DataLineffffbbbvvvresource_commonENewController;

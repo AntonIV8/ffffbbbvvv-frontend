@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvuser_resource_specEController from '../data-line-ffffbbbvvv-user-resource-spec-e';
+
+var DataLineffffbbbvvvuser_resource_specENewController = DataLineffffbbbvvvuser_resource_specEController;
+export default DataLineffffbbbvvvuser_resource_specENewController;

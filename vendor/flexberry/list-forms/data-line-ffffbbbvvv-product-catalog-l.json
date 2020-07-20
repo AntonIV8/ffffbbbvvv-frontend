@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-ffffbbbvvv-product-catalog-e",
+  "editForm": "data-line-ffffbbbvvv-product-catalog-e",
+  "external": false,
+  "caption": "Product_catalog",
+  "name": "DataLineffffbbbvvvproduct_catalogL",
+  "className": "product_catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-ffffbbbvvv-product-catalog",
+      "modelProjection": "product_catalogL"
+    }
+  ]
+}

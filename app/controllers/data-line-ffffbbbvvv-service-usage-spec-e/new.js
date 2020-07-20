@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvservice_usage_specEController from '../data-line-ffffbbbvvv-service-usage-spec-e';
+
+var DataLineffffbbbvvvservice_usage_specENewController = DataLineffffbbbvvvservice_usage_specEController;
+export default DataLineffffbbbvvvservice_usage_specENewController;

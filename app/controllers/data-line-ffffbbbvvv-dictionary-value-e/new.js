@@ -1,0 +1,4 @@
+import DataLineffffbbbvvvdictionary_valueEController from '../data-line-ffffbbbvvv-dictionary-value-e';
+
+var DataLineffffbbbvvvdictionary_valueENewController = DataLineffffbbbvvvdictionary_valueEController;
+export default DataLineffffbbbvvvdictionary_valueENewController;
